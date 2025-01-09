@@ -1,4 +1,4 @@
-public class Veriable {
+public class Veriable_With_DataType {
      public static void main(String[] args) {
         System.out.println("Veriable In Java");
         int number = 34;
